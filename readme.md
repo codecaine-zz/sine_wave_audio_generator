@@ -25,3 +25,6 @@ python sine_wave_music.py
 ```
 
 The program will generate a melody using sine waves and play it through the sound card. You can modify the frequency and duration of each note by changing the values of `notes_freq` and `duration` in the code.
+
+License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
