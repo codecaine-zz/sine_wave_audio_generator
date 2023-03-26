@@ -12,8 +12,16 @@ pip install simpleaudio numpy
 
 or
 
-```bash 
+```bash
 pip install -r requirements.txt
+```
+
+## Usage
+
+To run the program, navigate to the project directory and execute the following command:
+
+```bash
+python sine_wave_music.py
 ```
 
 The program will generate a melody using sine waves and play it through the sound card. You can modify the frequency and duration of each note by changing the values of `notes_freq` and `duration` in the code.
